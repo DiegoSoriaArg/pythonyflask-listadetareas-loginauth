@@ -3,7 +3,7 @@ Lista de tareas y login auth con Python + Flask:
 IMPORTANTE!
 Se deve instalar paquetes de python: en linea de comandos
 pip3 install camelcase
-Se deve instalar conector a DB: en linea de comandos
+Se debe instalar conector a DB: en linea de comandos
 pip3 install mysql-connector-python
 Se deve instalar la carpeta venv: en linea de comandos
 py -3 -m venv venv
